@@ -13,6 +13,8 @@ import org.slf4j.LoggerFactory;
 
 import java.util.Random;
 
+
+
 public class LogCreateData {
     private final static Logger logger = LoggerFactory.getLogger(LogCreateData.class);
     private static Random rand = new Random();
